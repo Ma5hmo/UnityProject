@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77bf4df69ad2c204d80e13f04cae70e6, type: 3}
+  m_Name: AK47
+  m_EditorClassIdentifier: 
+  name: AK47
+  isAutomatic: 1
+  damage: 40
+  fireRate: 13
+  maxAmmoCount: 30
+  reloadTime: 1.7
+  objectToThrow: {fileID: 1580386678409489352, guid: c38871ef2fdc7cf418829c5bbbdaf1fb,
+    type: 3}
+  barrelPosition: {x: 1.1613, y: 0.1733}
+  sprite: {fileID: 21300000, guid: 0feb4f076e08c0643a5da297ed8302a3, type: 3}
+  WeaponSlotSprite: {fileID: 21300000, guid: 9b951fb203c32214e8991a0a814c28a8, type: 3}
+  WeaponSlotSpriteSelected: {fileID: 21300000, guid: fa03a042ce32bf742b1889f837c72c8d,
+    type: 3}
+  pickUpSprite: {fileID: 21300000, guid: 3cd2735ee793cfa4792f27de7d8c261d, type: 3}

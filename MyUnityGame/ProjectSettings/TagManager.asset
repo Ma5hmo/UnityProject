@@ -10,6 +10,8 @@ TagManager:
   - Bullet
   - GroundWeapon
   - Wall
+  - Room
+  - Flashlight
   layers:
   - Default
   - TransparentFX
@@ -20,8 +22,8 @@ TagManager:
   - 
   - 
   - Environment
-  - 
-  - 
+  - Weapons
+  - Light
   - 
   - 
   - 
